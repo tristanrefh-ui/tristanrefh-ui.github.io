@@ -1,0 +1,68 @@
+{
+  "servers" : [
+    {
+      "address" : "https:\/\/ani.sidestore.io",
+      "name" : "SideStore"
+    },
+    {
+      "address" : "https:\/\/ani.sidestore.app",
+      "name" : "SideStore (.app)"
+    },
+    {
+      "address" : "https:\/\/ani.sidestore.zip",
+      "name" : "SideStore (.zip)"
+    },
+    {
+      "address" : "https:\/\/ani.846969.xyz",
+      "name" : "SideStore (.xyz)"
+    },
+    {
+      "address" : "https:\/\/ani.npeg.us",
+      "name" : "nythepegasus"
+    },
+    {
+      "address" : "http:\/\/5.249.163.88:6969",
+      "name" : "Macley"
+    },
+    {
+      "address" : "https:\/\/anisette.wedotstud.io",
+      "name" : "WE. Studio"
+    },
+    {
+      "address" : "https:\/\/ani.xu30.top",
+      "name" : "SteX"
+    },
+    {
+      "address" : "https:\/\/ani.owoellen.rocks",
+      "name" : "owoellen"
+    },
+    {
+      "address" : "https:\/\/ani.idevicehacked.com",
+      "name" : "iDH Server"
+    },
+    {
+      "address" : "https:\/\/ani.neoarz.com",
+      "name" : "neoarz"
+    },
+    {
+      "address" : "https:\/\/ani3server.fly.dev",
+      "name" : "pythonplayer123"
+    },
+    {
+      "address" : "https:\/\/ani.jaydenha.uk",
+      "name" : "Jayden's Server"
+    },
+    {
+      "address" : "https:\/\/anisette.crystall1ne.dev",
+      "name" : "crystall1nedev's server"
+    },
+    {
+      "address" : "https:\/\/omni.ethxn.xyz",
+      "name" : "ethxn's omnisette server :3"
+    }
+    {
+    "name": "pc",
+    "address": "https://ani2.stikstore.app/"
+}
+  ]
+}
